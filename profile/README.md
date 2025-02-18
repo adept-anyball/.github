@@ -9,19 +9,18 @@ Ploopy Adept mod for 8 mm BOSCH Rexroth <a href='#btus-needed'>BTUs</a> with opt
 
 | Ball                |    |                                                                                                                                                   |
 | ------------------- | -- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 34 mm, 38.1 mm      | 🌐 | [another mod<sup>\*\*</sup>](https://github.com/fabriciobastian/ploopy-adept-small-btu) by [@fabriciobastian](https://github.com/fabriciobastian) |
+| 34 mm, 38.1 mm      | ✔️ | e.g. Perixx and original Ploopy Nano snooker ball, see [this repo](https://github.com/fabriciobastian/ploopy-adept-small-btu)                     |
 | 44 mm               | ✔️ | e.g. from ProtoArc, JOMAA                                                                                                                         |
 | 45 mm               | ✔️ | default Adept ball                                                                                                                                |
 | 50 mm               | ✔️ | e.g. from Adesso T50                                                                                                                              |
 | 52.4 mm             | ✔️ | snooker ball                                                                                                                                      |
-| 55 mm               | ✔️ | e.g. from Kensington Expert, Perixx                                                                                    |
+| 55 mm               | ✔️ | e.g. from Kensington Expert, Perixx                                                                                                               |
 | 57 mm               | ✔️ | pool ball                                                                                                                                         |
 | 60 mm               | ✔️ | pool ball                                                                                                                                         |
-| 68 mm <sub>?!</sub> | ✔️ | russian<sup>\*\*\*</sup> pyramid ball                                                                                                                              |
+| 68 mm <sub>?!</sub> | ✔️ | russian<sup>\*\*</sup> pyramid ball                                                                                                               |
 
 <sup>\*chances are your ball is compatible if it's within the \[min, max\] range, and it probably is.</sup> \
-<sup>\*\*linked here just for your convenience, not part of the Anyball project.</sup> \
-<sup>\*\*\*kindly consider [supporting Ukraine](https://u24.gov.ua) to fight Russia in the ongoing invasion and occupation. 
+<sup>\*\*kindly consider [supporting Ukraine](https://u24.gov.ua) to fight Russia in the ongoing invasion and occupation. 
 
 ## 57-68 mm ball (or 50-60 mm with spacers installed)
 
