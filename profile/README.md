@@ -42,8 +42,8 @@ This mod by [@fabriciobastian](https://github.com/fabriciobastian) fits the orig
 You can find the 3MF files for Bambu printers on [Makerworld](https://makerworld.com/en/models/1087275#profileId-1080219).
 
 <p>
-  <img alt='45mm top' src='./44-45mm ball/standard/images/45mm-top.png' height="300px" float="left"/>
-  <img alt='45mm top without ball'  src='./44-45mm ball/standard/images/45mm-top-no-ball.png' height="300px" />
+  <img alt='45mm top' src='https://github.com/adept-anyball/mod/blob/master/44-45mm%20ball/standard/images/45mm-top.png' height="300px" float="left"/>
+  <img alt='45mm top without ball' src='https://github.com/adept-anyball/mod/blob/master/44-45mm%20ball/standard/images/45mm-top-no-ball.png' height="300px" />
 </p>
 
 ## BTUs needed
