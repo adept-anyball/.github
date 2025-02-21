@@ -49,8 +49,8 @@ Ploopy Adept mod for 8 mm BOSCH Rexroth <a href='#btus-needed'>BTUs</a> with opt
 Fits a 55 mm ball. It might fit other sizes, but this has not been tested yet. In this mod, the bottom and top parts of the original Adept case have been modified.
 
 <p>
-  <img alt='55mm short top' src='./55mm ball (short version only)/images/55mm-short-top.jpg' height="320px" float="left"/>
-  <img alt='55mm short side' src='./55mm ball (short version only)/images/55mm-short-side.jpg' height="320px" float="right"/>
+  <img alt='55mm short top' src='https://github.com/user-attachments/assets/52295a09-00fc-4d23-a0a1-48b52354a990' height="320px" float="left"/>
+  <img alt='55mm short side' src='https://github.com/user-attachments/assets/dbae2060-7edf-4268-ab77-77fa4fe187ee' height="320px" float="right"/>
 </p>
 
 ## 44-45 mm ball
@@ -59,8 +59,8 @@ This mod fits the original 45mm ball. \
 You can find the 3MF files for Bambu printers on [Makerworld](https://makerworld.com/en/models/1087275#profileId-1080219).
 
 <p>
-  <img alt='45mm top' src='./44-45mm ball (+ short version)/standard/images/45mm-top.png' height="300px" float="left"/>
-  <img alt='45mm top without ball'  src='./44-45mm ball (+ short version)/standard/images/45mm-top-no-ball.png' height="300px" />
+  <img alt='45mm top' src='https://github.com/user-attachments/assets/f79075e4-f3ea-4481-9840-ae0d5718ddf0' height="300px" float="left"/>
+  <img alt='45mm top without ball' src='https://github.com/user-attachments/assets/3505fe7b-3ede-4538-a9b7-264c34607ab9' height="300px" />
 </p>
 
 ## BTUs needed
