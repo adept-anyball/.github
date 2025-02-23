@@ -44,9 +44,9 @@ Ploopy Adept mod for 8 mm BOSCH Rexroth <a href='#btus-needed'>BTUs</a> with opt
   <img src='https://github.com/user-attachments/assets/baf4e37a-e5a8-46d3-9f48-b12d4a77d95e' width='420' float='right' />
 </p>
 
-## 55 mm ball
+## 50-55 mm ball (short version)
 
-Fits a 55 mm ball. It might fit other sizes, but this has not been tested yet. In this mod, the bottom and top parts of the original Adept case have been modified.
+Designed for a 55mm ball, but fits 50-55 mm balls. In this mod, the bottom and top parts of the original Adept case have been modified.
 
 <p>
   <img alt='55mm short top' src='https://github.com/user-attachments/assets/52295a09-00fc-4d23-a0a1-48b52354a990' height="320px" float="left"/>
