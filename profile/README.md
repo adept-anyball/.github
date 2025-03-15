@@ -63,8 +63,8 @@ Also available for non-standard BTUs:
 Fits a 50-55 mm ball. In this mod, the bottom and top parts of the original Adept case have been modified.
 
 <p>
-  <img alt='55mm short top' src='./50-55mm ball (short version)/images/55mm-short-top.jpg' height="320px" float="left"/>
-  <img alt='55mm short side' src='./50-55mm ball (short version)/images/55mm-short-side.jpg' height="320px" float="right"/>
+  <img alt='55mm short top' src='https://github.com/user-attachments/assets/db33e8f8-9daf-4204-a075-6289842b20d8' height="320px" float="left"/>
+  <img alt='55mm short side' src='https://github.com/user-attachments/assets/5ff035ff-ad81-41ec-9ad9-e9e4072ffbf9' height="320px" float="right"/>
 </p>
 
 ## 44-45 mm ball
@@ -73,8 +73,8 @@ This mod fits the original 45mm ball. \
 You can find the 3MF files for Bambu printers on [Makerworld](https://makerworld.com/en/models/1087275#profileId-1080219).
 
 <p>
-  <img alt='45mm top' src='./44-45mm ball (+ short version)/standard/images/45mm-top.png' height="300px" float="left"/>
-  <img alt='45mm top without ball'  src='./44-45mm ball (+ short version)/standard/images/45mm-top-no-ball.png' height="300px" />
+  <img alt='45mm top' src='https://github.com/user-attachments/assets/2589164e-46c9-49c7-900f-104ad5a5d75e' height="300px" float="left"/>
+  <img alt='45mm top without ball'  src='https://github.com/user-attachments/assets/8be3af2c-b452-402b-9e61-42fa9efe3d8d' height="300px" />
 </p>
 
 ## 50-52.4 mm ball _DEPRECATED_
